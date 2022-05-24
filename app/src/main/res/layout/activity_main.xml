@@ -35,7 +35,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:text="Find Restaurants"
-        android:textColor="@color/colorTextIcons"/>
+        android:textColor="@color/colorTextIcons"
+        android:background="@color/colorAccent" />
 
 
 </RelativeLayout>
